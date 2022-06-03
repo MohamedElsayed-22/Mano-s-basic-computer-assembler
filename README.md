@@ -1,5 +1,5 @@
 # Mano-s-Basic-Computer-Assembler
-This is a direct implementation of an assembler using object oriented programming python for the Mano machine assembly instructions
+This is a direct implementation of an assembler using python for the Mano machine assembly instructions
 Instructions with their hexadecimal code are saved in instructions.txt
 the input of the assembler is a .txt file including an assembly code, while the output is another .txt file with hexadecimal codes coresponding to each command.
 
